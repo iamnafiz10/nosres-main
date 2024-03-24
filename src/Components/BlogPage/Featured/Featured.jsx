@@ -16,7 +16,7 @@ const Featured = () => {
                                 <div className="flex items-center gap-3 mt-2">
                                     <img src={LogoImg} className="w-7" alt="LogoImg"/>
                                     <div className="wrap">
-                                        <h4 className="text-[14px] font-semibold">Nosres</h4>
+                                        <h4 className="c text-[14px] font-semibold">Nosres</h4>
                                         <p className="text-[13px]">09 April 2023</p>
                                     </div>
                                 </div>
